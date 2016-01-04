@@ -1,2 +1,2 @@
 # testproject
-Getting started with Github
+Getting started with Githup from terminal
